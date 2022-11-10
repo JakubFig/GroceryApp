@@ -12,10 +12,7 @@ class _MainScreenState extends State<MainScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text(
-          'Main Screen',
-          style: TextStyle(),
-        ),
+        child: Text('Main Screen'),
       ),
     );
   }
